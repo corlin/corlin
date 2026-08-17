@@ -1,4 +1,8 @@
 👋 Hi, I’m @corlin
 
 
-![corlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=corlin) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corlin&stats_format=bytes)
+![](https://github.com/corlin/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/corlin/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/corlin/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/corlin/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+
